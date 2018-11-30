@@ -1,7 +1,8 @@
 <?php
 
 use PHPUnit\Framework\TestCase;
-require_once('PeopleImporter.php');
+
+require_once('src/PeopleImporter.php');
 
 /**
  * Tests PeopleImporter class

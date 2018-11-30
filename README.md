@@ -6,4 +6,4 @@ To install dependencies for unit tests, use:
 
 To run tests use:
 
-`./vendor/bin/phpunit PeopleImporterTest`
+`./vendor/bin/phpunit test`
