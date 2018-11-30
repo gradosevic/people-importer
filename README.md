@@ -1,6 +1,6 @@
 # people-importer
 
-To install dependecies for unint test, use:
+To install dependencies for unit tests, use:
 
 `composer install`
 
